@@ -1,16 +1,19 @@
-### Hi there 👋
+<center> ### Hello there! Nice to meet ya'! 👋 </center>
 
-<!--
-**sarkar-sayan/sarkar-sayan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+About Myself:-
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✔️ Well, I am __Sayan Sarkar__, a PostGrad in _Computer Science_ from University of Calcutta.
+
+✔️ My expertise deals with Development and Data Science/Machine Learning.
+
+✔️ I’m currently working on various Machine Learning projects 🔭
+
+✔️ And 🌱 sharpening my Competitive Programming skills.
+
+
+📫 Find Me Here:
+
+https://www.linkedin.com/in/sayan-sarkar-960302252/
+
+

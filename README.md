@@ -1,4 +1,4 @@
-<center> ### Hello there! Nice to meet ya'! 👋 </center>
+### Hello there! Nice to meet ya'! 👋
 
 
 About Myself:-

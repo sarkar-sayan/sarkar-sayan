@@ -9,7 +9,7 @@ About Myself:-
 
 ✔️ I’m currently working on various Machine Learning projects 🔭
 
-✔️ And 🌱 sharpening my skills as an __Business Intelligence & Analytics Developer Intern__.
+✔️ And 🌱 sharpening my skills as a __Business Intelligence & Analytics Developer Intern__.
 
 
 📫 Find Me Here: **sayansarkar.careers@gmail.com**

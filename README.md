@@ -5,7 +5,7 @@ About Myself:-
 
 ✔️ Well, I am __Sayan Sarkar__, a PostGrad in _Computer Science_ from University of Calcutta.
 
-✔️ My expertise deals with Data Science/Machine Learning.
+✔️ My expertise deals with Data Science and Machine Learning.
 
 ✔️ I’m currently working on various Machine Learning projects 🔭
 

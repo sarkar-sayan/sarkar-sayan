@@ -40,4 +40,9 @@ About Myself:-
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a> 
 
 
+Feel free to reach out to me via email or connect with me on LinkedIn.
 
+Thank you for visiting my GitHub profile!
+
+![Snake Animation](https://raw.githubusercontent.com/sammorozov/sammorozov/main/assets/github-snake.svg)
+Credit for this snake animation [Sammorozov](https://github.com/sammorozov)

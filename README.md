@@ -11,13 +11,14 @@ About Myself:-
 
 ✔️ And 🌱 sharpening my skills as a __Business Intelligence & Analytics Developer Intern__.
 
-
 📫 Find Me Here: **sayansarkar.careers@gmail.com**
 <p align="left">
 <a href="https://linkedin.com/in/sayan-sarkar-960302252" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sayan-sarkar-960302252" height="20" width="30" /></a>
 <a href="https://www.hackerrank.com/sayansarkar2102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sayansarkar2102" height="20" width="30" /></a>
 <a href="https://www.leetcode.com/sayansarkar2102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sayansarkar2102" height="20" width="30" /></a>
 </p>
+Feel free to reach out to me via email or connect with me on LinkedIn.  
+
 
 <h4 align="left">Languages and Tools:</h4>
 <p align="left"> 
@@ -37,11 +38,9 @@ About Myself:-
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="30"/> </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a> 
 
 
-Feel free to reach out to me via email or connect with me on LinkedIn.
-
+  
 Thank you for visiting my GitHub profile!
 
 ![Snake Animation](https://raw.githubusercontent.com/sammorozov/sammorozov/main/assets/github-snake.svg)

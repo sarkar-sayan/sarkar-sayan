@@ -8,16 +8,17 @@ About Myself:-
 
 ✔️ My expertise deals with Data Science and Machine Learning.
 
+✔️ You can ask 💬 me about _Data Science, AI/ML, Data Analytics & Business Analytics_.
+
 ✔️ I’m currently working on various Machine Learning projects 🔭
 
 ✔️ And 🌱 sharpening my skills as a __Business Intelligence & Analytics Developer Intern__.
 
-📫 Find Me Here: **sayansarkar.careers@gmail.com**
-<p align="left">
-<a href="https://linkedin.com/in/sayan-sarkar-960302252" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sayan-sarkar-960302252" height="20" width="30" /></a>
-<a href="https://www.hackerrank.com/sayansarkar2102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sayansarkar2102" height="20" width="30" /></a>
-<a href="https://www.leetcode.com/sayansarkar2102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sayansarkar2102" height="20" width="30" /></a>
-</p>
+📫 Find Me Right Here: <a href="mailto:sayansarkar.careers@gmail.com" title="Email"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"/></a>
+<a href="https://www.linkedin.com/in/sayan-sarkar-960302252/"><img  alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" align="center" /></a>
+<a href="https://www.hackerrank.com/sayansarkar2102" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
+<a href="https://www.leetcode.com/sayansarkar2102"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/></a>
+
 Feel free to reach out to me via email or connect with me on LinkedIn.  
 
 

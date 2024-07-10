@@ -1,5 +1,6 @@
 ### Hello there! Nice to meet ya'! 👋
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sarkar-sayan&label=Profile%20views&color=0e75b6&style=flat" alt="sarkar-sayan" /> </p>
 
 About Myself:-
 
@@ -39,8 +40,12 @@ Feel free to reach out to me via email or connect with me on LinkedIn.
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="30"/> </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/> </a> 
 
-
   
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarkar-sayan" alt="sarkar-sayan" width="600" height="130" /></a> </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarkar-sayan&show_icons=true&locale=en&layout=compact" alt="sarkar-sayan" width="200" height="130" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarkar-sayan&" alt="sarkar-sayan" width="400" height="200" /></p>
+
 Thank you for visiting my GitHub profile!
 
 ![Snake Animation](https://raw.githubusercontent.com/sammorozov/sammorozov/main/assets/github-snake.svg)

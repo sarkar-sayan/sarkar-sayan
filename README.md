@@ -19,7 +19,7 @@ About Myself:-
 <a href="https://www.hackerrank.com/sayansarkar2102" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
 <a href="https://www.leetcode.com/sayansarkar2102"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/></a>
 
-Feel free to reach out to me via email or connect with me on LinkedIn.  
+Feel free to reach out to me via Email or connect with me on LinkedIn.  
 
 
 <h4 align="left">Languages and Tools:</h4>

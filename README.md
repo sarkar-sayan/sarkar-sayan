@@ -22,7 +22,7 @@ About Myself:-
 Feel free to reach out to me via Email or connect with me on LinkedIn.  
 
 
-<h4 align="center">Languages and Tools</h4>
+<h4 align="left">Languages and Tools: </h4>
 <!-- <p align="left"> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> </a> 

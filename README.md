@@ -76,7 +76,7 @@ Feel free to reach out to me via Email or connect with me on LinkedIn.
       <br>OpenCV
     </td>
     <td align="center" width="96">
-     <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> 
+     <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flask-Dark.svg" alt="flask" width="40" height="40"/> </a> 
       <br>Flask
     </td>
     <td align="center" width="96">
@@ -84,7 +84,7 @@ Feel free to reach out to me via Email or connect with me on LinkedIn.
       <br>AWS
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="40" height="40" />
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="icon" width="40" height="40" />
       <br>Github
     </td>
  </tr>
@@ -108,7 +108,7 @@ Feel free to reach out to me via Email or connect with me on LinkedIn.
       <br>SQLite
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="https://www.java.com" />
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" width="40" height="40" alt="https://www.java.com" theme="light"/>
       <br>Java
     </td>
     <td align="center" width="96">

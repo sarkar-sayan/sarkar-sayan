@@ -136,7 +136,7 @@ Feel free to reach out to me via Email or connect with me on LinkedIn.
 <br><br>
 </table>
   
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarkar-sayan&theme=onedark" alt="sarkar-sayan" width="815" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarkar-sayan&theme=onedark" alt="sarkar-sayan" width="850" /></a> </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarkar-sayan&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="sarkar-sayan" /></p>
 
 <p><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sarkar-sayan&theme=highcontrast" alt="GitHub Streak" /></a></p>

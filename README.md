@@ -12,7 +12,7 @@ About Myself:-
 
 ✔️ I’m currently working on various Machine Learning projects 🔭
 
-✔️ And 🌱 sharpening my skills as a __Business Intelligence & Analytics Developer Intern__.
+✔️ And 🌱 sharpening my skills as a __Data Analyst__.
 
 📫 Find Me Right Here:  <a href="mailto:sayansarkar.careers@gmail.com" title="Email"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"/></a>
 <a href="https://www.linkedin.com/in/sayan-sarkar-960302252/"><img  alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" align="center" /></a>

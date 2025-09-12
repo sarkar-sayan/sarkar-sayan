@@ -142,6 +142,3 @@ Feel free to reach out to me via Email or connect with me on LinkedIn.
 <p><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sarkar-sayan&theme=highcontrast" alt="GitHub Streak" /></a></p>
 
 Thank you for visiting my GitHub profile! See you again ✌️
-
-![Snake Animation](https://raw.githubusercontent.com/sammorozov/sammorozov/main/assets/github-snake.svg)
-Credit for this snake animation [Sammorozov](https://github.com/sammorozov)
